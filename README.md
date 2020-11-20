@@ -16,3 +16,11 @@
 <br>
 
 4 - Row normalization function
+
+<br>
+
+5 - Soft Max function
+
+<br>
+
+<br>
