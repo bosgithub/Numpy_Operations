@@ -14,4 +14,4 @@
 
 <br>
 
-4. Row normalization function
+4 - Row normalization function
