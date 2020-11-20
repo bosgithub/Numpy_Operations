@@ -11,7 +11,7 @@
 
 <br>
 
-3 - Reshaping Function: Takes a matrix with input of shape (length, height, 3) then returns a vector of shape (length*height*3, 1)
+3 - Reshaping Function: Takes a matrix with input of shape (length, height, 3) then returns a vector of shape (length\*height\*3, 1)
 
 <br>
 
