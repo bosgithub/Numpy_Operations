@@ -15,11 +15,11 @@
 
 <br>
 
-4 - Row normalization function
+4 - Row normalization function: Often, normalizing the data is done before feeding it into the model, this generally speeds up learning and leads to faster convergence.
 
 <br>
 
-5 - Soft Max function
+5 - Soft Max function:
 
 <br>
 
