@@ -19,7 +19,7 @@
 
 <br>
 
-5 - Soft Max function:
+5 - Soft Max function: This is a generalization of the logistic function to multiple dimensions/classes. It is used in multinomial logistic regression and is often used as the last activation function of a neural network to normalize the output of a network to a probability distribution over predicted output classes.
 
 <br>
 
