@@ -23,4 +23,8 @@
 
 <br>
 
+6 - Element wise multiplication implemented in python and numpy
+
 <br>
+
+7 - Inner Product implemented in python and numpy
