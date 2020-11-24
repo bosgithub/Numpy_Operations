@@ -28,3 +28,7 @@
 <br>
 
 7 - Inner Product function implemented in python and numpy
+
+<br>
+
+8 - Outer Product function implemented in python and numpy
