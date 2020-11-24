@@ -1,6 +1,6 @@
 # Numpy_Operations
 
-#### let's build some basic functions with Numpy
+#### let's build some functions with Numpy
 
 1 - Sigmoid function implemented with math library and numpy library.
 
