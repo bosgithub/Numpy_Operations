@@ -27,7 +27,7 @@
 
 <br>
 
-7 - Inner Product function implemented in python and numpy
+7 - Inner Product(Dot Product) function implemented in python and numpy
 
 <br>
 
