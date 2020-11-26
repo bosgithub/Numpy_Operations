@@ -32,3 +32,11 @@
 <br>
 
 8 - Outer Product function implemented in python and numpy
+
+<br>
+
+9 - L1 loss function 
+
+<br>
+
+10 - L2 loss function 
