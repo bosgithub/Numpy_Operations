@@ -35,8 +35,8 @@
 
 <br>
 
-9 - L1 loss function 
+9 - L1 loss function: Least Absolute Deviations
 
 <br>
 
-10 - L2 loss function 
+10 - L2 loss function: Least Square Errors
